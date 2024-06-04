@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "shadow_agency",
+			"path": "."
+		},
+		{
+			"name": "fonts",
+			"path": "../MauricioCap/fonts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "shadow_agency"
+	}
+}
